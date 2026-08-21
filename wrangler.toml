@@ -18,7 +18,7 @@ migrations_dir = "worker/drizzle"
 # 定义环境变量和密钥
 [vars]
 COOKIES_SECRET = "${COOKIES_SECRET}"
-EMAIL_DOMAIN = "${EMAIL_DOMAIN}"
+EMAIL_DOMAIN = "woqpow.my.id"
 SEND_CHANNEL = "${SEND_CHANNEL}"
 SENDER_EMAIL = "${SENDER_EMAIL}"
 SEND_RATE_LIMIT_PER_MINUTE = "${SEND_RATE_LIMIT_PER_MINUTE}"
